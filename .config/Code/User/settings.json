@@ -1,0 +1,26 @@
+{
+    
+    "openInDefaultBrowser.run.openWithLocalHttpServer": false,
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "Fira Code iCursive S12",
+    "editor.fontLigatures": true,
+   
+    "editor.fontWeight": "400",
+    "editor.fontSize": 14,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.wordWrap": "wordWrapColumn",
+    "workbench.iconTheme": "file-icons", // Regular
+
+    // Always include all words from the current document.
+    "javascript.suggest.alwaysAllWords": true,
+    // Complete functions with their parameter signature.
+    "javascript.suggest.useCodeSnippetsOnMethodSuggest": true,
+    "workbench.colorTheme": "Tomorrow Night Operator Mono",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+
+}
